@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoWLsConsole", "WoW-Owls\WoWLsConsole.csproj", "{F572153E-A147-4717-94AD-AA31613CC7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoWLs", "WoWLs\WoWLs.csproj", "{13F2BCA3-EFA5-4424-897A-82A2AB4031ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F572153E-A147-4717-94AD-AA31613CC7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F572153E-A147-4717-94AD-AA31613CC7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F572153E-A147-4717-94AD-AA31613CC7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F572153E-A147-4717-94AD-AA31613CC7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F2BCA3-EFA5-4424-897A-82A2AB4031ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F2BCA3-EFA5-4424-897A-82A2AB4031ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F2BCA3-EFA5-4424-897A-82A2AB4031ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F2BCA3-EFA5-4424-897A-82A2AB4031ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01786F0C-013A-41DB-AE6B-6C6FB571D1D5}
+	EndGlobalSection
+EndGlobal
